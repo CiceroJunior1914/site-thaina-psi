@@ -48,11 +48,18 @@ export default function PsicologaSite() {
       {/* Sobre */}
       <section className="px-6 py-12 bg-white">
         <div className="max-w-4xl mx-auto">
-          <h3 className="text-2xl font-semibold mb-4">Sobre a profissional</h3>
+          <h3 className="text-2xl font-semibold mb-4">Sobre mim</h3>
           <p className="text-gray-600 leading-relaxed">
-            Psicóloga formada pela Universidade X, com atuação baseada na
-            Terapia Cognitivo-Comportamental. Atendimento acolhedor, ético e
-            focado no desenvolvimento emocional e bem-estar.
+            Olá, é um prazer ter você aqui! Sou psicóloga clínica, formada pela
+            Unicsul, especializada na abordagem Terapia Cognitivo-Comportamental
+            (TCC). Meu objetivo é que se sinta acolhido, compreendido e à
+            vontade para compartilhar suas experiências, sempre em um espaço
+            livre de julgamentos. Acredito que, quando nos conhecemos
+            verdadeiramente, podemos construir caminhos mais saudáveis e
+            alcançar uma vida com mais equilíbrio e bem-estar. Cada encontro
+            será um espaço de construção, onde o que for importante para você
+            terá seu lugar. Estou à disposição para caminhar ao seu lado nesse
+            processo.
           </p>
         </div>
       </section>
@@ -62,7 +69,20 @@ export default function PsicologaSite() {
         <h3 className="text-2xl font-semibold mb-8">Como posso ajudar</h3>
 
         <div className="grid md:grid-cols-3 gap-6">
-          {["Ansiedade", "Depressão", "Angústia", "Autoestima", "Autoconhecimento", "Autocrítica", "Medos", "Estresse", "Dependência emocional", "Relacionamentos", "Fobia", "Solidão"].map((item, i) => (
+          {[
+            "Ansiedade",
+            "Depressão",
+            "Angústia",
+            "Autoestima",
+            "Autoconhecimento",
+            "Autocrítica",
+            "Medos",
+            "Estresse",
+            "Dependência emocional",
+            "Relacionamentos",
+            "Fobia",
+            "Solidão",
+          ].map((item, i) => (
             <div key={i} className="bg-white p-6 rounded-2xl shadow-sm">
               <h4 className="font-medium text-lg mb-2">{item}</h4>
               <p className="text-gray-600 text-sm">
