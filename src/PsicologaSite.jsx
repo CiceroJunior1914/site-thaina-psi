@@ -78,7 +78,7 @@ export default function PsicologaSite() {
         />
 
         <a
-          href="https://api.whatsapp.com/message/BL7TGOMEWES7B1?autoload=1&app_absent=0&utm_source=ig"
+          href="https://wa.me/5511940284588?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20atendimento%20psicol%C3%B3gico%3F"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#D9C5B2] text-[#4A443F] px-6 py-3 rounded-2xl hover:opacity-80 transition font-medium text-center w-full sm:w-auto"
@@ -101,7 +101,7 @@ export default function PsicologaSite() {
             online e presencial.
           </p>
           <a
-            href="https://api.whatsapp.com/message/BL7TGOMEWES7B1?autoload=1&app_absent=0&utm_source=ig"
+            href="https://wa.me/5511940284588?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20atendimento%20psicol%C3%B3gico%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[#BFA07D] text-white px-7 py-3 rounded-2xl text-base hover:opacity-90 transition"
@@ -219,7 +219,7 @@ export default function PsicologaSite() {
             Entre em contato pelo WhatsApp e tire suas dúvidas sem compromisso.
           </p>
           <a
-            href="https://api.whatsapp.com/message/BL7TGOMEWES7B1?autoload=1&app_absent=0&utm_source=ig"
+            href="https://wa.me/5511940284588?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20o%20atendimento%20psicol%C3%B3gico%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[#BFA07D] text-white px-8 py-3 rounded-2xl hover:opacity-90 transition"
